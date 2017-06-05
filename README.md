@@ -34,7 +34,7 @@ sudo make install
 
 [source](https://cdn-learn.adafruit.com/assets/assets/000/031/317/medium800/raspberry_pi_SWDPinoutPi2.png)
 
-![jtag](img/jtag.jpg)
+![jtag](img/jtag.JPG)
 
 [source](http://wiki.stm32duino.com/images/3/36/PotLuck_JTAG_Interface.JPG)
 
