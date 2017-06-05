@@ -46,7 +46,7 @@ wget https://github.com/rogerclarkmelbourne/STM32duino-bootloader/raw/master/STM
 nano openocd.cfg
 ```
 
-> openocd.conf
+> openocd.cfg
 
 ```
 source [find interface/raspberrypi-native.cfg]
@@ -80,9 +80,9 @@ sudo openocd
 
 ## Windows installation
 
-[Arduino IDE instructions](http://wiki.stm32duino.com/index.php?title=Installation_on_Windows)
-[Driver installation](http://wiki.stm32duino.com/index.php?title=Windows_driver_installation)
+- [Arduino IDE instructions](http://wiki.stm32duino.com/index.php?title=Installation_on_Windows)
+- [Driver installation](http://wiki.stm32duino.com/index.php?title=Windows_driver_installation)
 
 ## Uploading a sketch
 
-[Instructions](http://wiki.stm32duino.com/index.php?title=Uploading_a_sketch)
+- [Instructions](http://wiki.stm32duino.com/index.php?title=Uploading_a_sketch)
