@@ -7,6 +7,7 @@
 - [Programming Microcontrollers using OpenOCD...](https://learn.adafruit.com/programming-microcontrollers-using-openocd-on-raspberry-pi/compiling-openocd)
 - [STM32 Smart V2.0](http://wiki.stm32duino.com/index.php?title=STM32_Smart_V2.0)
 - [STM32 and JTAG via Raspberry](https://log2.ch/2014/stm32-and-jtag-via-raspberry/)
+- [Use Raspberry Pi (2/3) as a JTAG/SWD adapter](https://movr0.com/2016/09/02/use-raspberry-pi-23-as-a-jtagswd-adapter/)
 
 ## Flashing the bootloader with Raspberry Pi
 
@@ -80,6 +81,7 @@ sudo openocd
 
 ## Windows installation
 
+- [Arduino STM32 GitHub repository](https://github.com/rogerclarkmelbourne/Arduino_STM32)
 - [Arduino IDE instructions](http://wiki.stm32duino.com/index.php?title=Installation_on_Windows)
 - [Driver installation](http://wiki.stm32duino.com/index.php?title=Windows_driver_installation)
 
